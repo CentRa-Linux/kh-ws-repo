@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Chromium Web Store
+Comment=ウェブアプリ
+Exec=chromium --app=https://chrome.google.com/webstore --class=WebApp-ChromiumWebStore8380
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=chrome-store
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ChromiumWebStore8380
+StartupNotify=true
+X-WebApp-URL=https://chrome.google.com/webstore
+X-WebApp-Isolated=false
