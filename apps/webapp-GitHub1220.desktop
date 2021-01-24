@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=GitHub
+Comment=ウェブアプリ
+Exec=chromium --app=https://github.com --class=WebApp-GitHub1220
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=github
+Categories=GTK;Development;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GitHub1220
+StartupNotify=true
+X-WebApp-URL=https://github.com
+X-WebApp-Isolated=false

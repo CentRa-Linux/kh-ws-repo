@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Zoho Sheet
+Comment=ウェブアプリ
+Exec=chromium --app=https://sheet.zoho.com --class=WebApp-ZohoSheet9795
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/sheet-logo.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ZohoSheet9795
+StartupNotify=true
+X-WebApp-URL=https://sheet.zoho.com
+X-WebApp-Isolated=false

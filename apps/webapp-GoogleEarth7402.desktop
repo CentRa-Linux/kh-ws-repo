@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Earth
+Comment=ウェブアプリ
+Exec=chromium --app=https://earth.google.com/web/ --class=WebApp-GoogleEarth7402
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-earth
+Categories=GTK;Utility;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleEarth7402
+StartupNotify=true
+X-WebApp-URL=https://earth.google.com/web/
+X-WebApp-Isolated=false
+

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Wikipedia
+Comment=ウェブアプリ
+Exec=chromium --app=https://wikipedia.org --class=WebApp-Wikipedia2812
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=wikipedia
+Categories=GTK;Utility;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Wikipedia2812
+StartupNotify=true
+X-WebApp-URL=https://wikipedia.org
+X-WebApp-Isolated=false
+

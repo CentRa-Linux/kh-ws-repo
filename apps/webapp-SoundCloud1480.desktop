@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=SoundCloud
+Comment=ウェブアプリ
+Exec=chromium --app=https://soundcloud.com --class=WebApp-SoundCloud1480
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=soundcloud
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-SoundCloud1480
+StartupNotify=true
+X-WebApp-URL=https://soundcloud.com
+X-WebApp-Isolated=false

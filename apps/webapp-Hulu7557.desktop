@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Hulu
+Comment=ウェブアプリ
+Exec=chromium --app=https://hulu.com --class=WebApp-Hulu7557
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=hulu
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Hulu7557
+StartupNotify=true
+X-WebApp-URL=https://hulu.com
+X-WebApp-Isolated=false

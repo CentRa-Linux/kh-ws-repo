@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Ondrive Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://onedrive.live.com --class=WebApp-MicrosoftOndriveWeb0827
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=ms-onedrive
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftOndriveWeb0827
+StartupNotify=true
+X-WebApp-URL=https://onedrive.live.com
+X-WebApp-Isolated=false
+

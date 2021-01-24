@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Deezer
+Comment=ウェブアプリ
+Exec=chromium --app=https://deezer.com --class=WebApp-Deezer4414
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=deezer
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Deezer4414
+StartupNotify=true
+X-WebApp-URL=https://deezer.com
+X-WebApp-Isolated=false

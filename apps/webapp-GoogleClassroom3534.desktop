@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Classroom
+Comment=ウェブアプリ
+Exec=chromium --app=https://classroom.google.com --class=WebApp-GoogleClassroom3534
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleClassroom3534
+StartupNotify=true
+X-WebApp-URL=https://classroom.google.com
+X-WebApp-Isolated=false

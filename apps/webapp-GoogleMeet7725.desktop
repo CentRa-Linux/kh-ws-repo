@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Meet
+Comment=ウェブアプリ
+Exec=chromium --app=https://meet.google.com --class=WebApp-GoogleMeet7725
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-meet
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleMeet7725
+StartupNotify=true
+X-WebApp-URL=https://meet.google.com
+X-WebApp-Isolated=false

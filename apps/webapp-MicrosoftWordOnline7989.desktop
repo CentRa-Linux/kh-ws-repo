@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Word Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://office.live.com/start/Word.aspx --class=WebApp-MicrosoftWordOnline7989
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=ms-word
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftWordOnline7989
+StartupNotify=true
+X-WebApp-URL=https://office.live.com/start/Word.aspx
+X-WebApp-Isolated=false

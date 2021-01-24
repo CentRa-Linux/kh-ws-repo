@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Spotify
+Comment=ウェブアプリ
+Exec=chromium --app=https://open.spotify.com --class=WebApp-SpotifyWebPlayer0183
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=spotify
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-SpotifyWebPlayer0183
+StartupNotify=true
+X-WebApp-URL=https://open.spotify.com
+X-WebApp-Isolated=false
+

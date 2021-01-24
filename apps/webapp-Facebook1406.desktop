@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Facebook
+Comment=ウェブアプリ
+Exec=chromium --app=https://facebook.com --class=WebApp-Facebook1406
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=facebook
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Facebook1406
+StartupNotify=true
+X-WebApp-URL=https://facebook.com
+X-WebApp-Isolated=false

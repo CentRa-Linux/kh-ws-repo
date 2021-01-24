@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Maps
+Comment=ウェブアプリ
+Exec=chromium --app=https://maps.google.com --class=WebApp-GoogleMaps6694
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=application-vnd.google-apps.map
+Categories=GTK;Utility;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleMaps6694
+StartupNotify=true
+X-WebApp-URL=https://maps.google.com
+X-WebApp-Isolated=false

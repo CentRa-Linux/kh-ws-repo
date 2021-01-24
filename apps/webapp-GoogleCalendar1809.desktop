@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Calendar
+Comment=ウェブアプリ
+Exec=chromium --app=https://calendar.google.com --class=WebApp-GoogleCalendar1809
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-agenda
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleCalendar1809
+StartupNotify=true
+X-WebApp-URL=https://calendar.google.com
+X-WebApp-Isolated=false
+

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Outlook Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://outlook.live.com/ --class=WebApp-MicrosoftOutlook4506
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=ms-outlook
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftOutlook4506
+StartupNotify=true
+X-WebApp-URL=https://outlook.live.com/
+X-WebApp-Isolated=false
+

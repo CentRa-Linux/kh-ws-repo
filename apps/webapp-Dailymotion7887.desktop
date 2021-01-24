@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Dailymotion
+Comment=ウェブアプリ
+Exec=chromium --app=https://dailymotion.com --class=WebApp-Dailymotion7887
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/Dailymotion.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Dailymotion7887
+StartupNotify=true
+X-WebApp-URL=https://dailymotion.com
+X-WebApp-Isolated=false

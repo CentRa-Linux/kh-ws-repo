@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Zoho Show
+Comment=ウェブアプリ
+Exec=chromium --app=https://show.zoho.com --class=WebApp-ZohoShow5221
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/show-logo.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ZohoShow5221
+StartupNotify=true
+X-WebApp-URL=https://show.zoho.com
+X-WebApp-Isolated=false

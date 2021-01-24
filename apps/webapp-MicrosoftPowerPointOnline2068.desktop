@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft PowerPoint Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://office.live.com/start/PowerPoint.aspx --class=WebApp-MicrosoftPowerPointOnline2068
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=ms-powerpoint
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftPowerPointOnline2068
+StartupNotify=true
+X-WebApp-URL=https://office.live.com/start/PowerPoint.aspx
+X-WebApp-Isolated=false
+

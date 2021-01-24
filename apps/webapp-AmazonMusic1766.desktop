@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Amazon Music
+Comment=ウェブアプリ
+Exec=chromium --app=https://music.amazon.com --class=WebApp-AmazonMusic1766
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=amazon
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-AmazonMusic1766
+StartupNotify=true
+X-WebApp-URL=https://music.amazon.com
+X-WebApp-Isolated=false
+

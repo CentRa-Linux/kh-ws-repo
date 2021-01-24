@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=niconico
+Comment=ウェブアプリ
+Exec=chromium --app=https://nicovideo.jp --class=WebApp-niconico8938
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/niconico.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-niconico8938
+StartupNotify=true
+X-WebApp-URL=https://nicovideo.jp
+X-WebApp-Isolated=false

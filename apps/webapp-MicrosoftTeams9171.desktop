@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Teams Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://teams.live.com/ --class=WebApp-MicrosoftTeams9171
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=teams-for-linux
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftTeams9171
+StartupNotify=true
+X-WebApp-URL=https://teams.live.com/
+X-WebApp-Isolated=false
+

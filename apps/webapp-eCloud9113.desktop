@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=/e/ Cloud
+Comment=ウェブアプリ
+Exec=chromium --app=https://ecloud.global --class=WebApp-eCloud9113
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/eCloud.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-eCloud9113
+StartupNotify=true
+X-WebApp-URL=https://ecloud.global
+X-WebApp-Isolated=false

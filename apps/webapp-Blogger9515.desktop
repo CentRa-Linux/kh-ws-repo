@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Blogger
+Comment=ウェブアプリ
+Exec=chromium --app=https://blogger.com --class=WebApp-Blogger9515
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=kblogger
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Blogger9515
+StartupNotify=true
+X-WebApp-URL=https://blogger.com
+X-WebApp-Isolated=false

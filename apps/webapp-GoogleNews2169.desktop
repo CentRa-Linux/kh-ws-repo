@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google News
+Comment=ウェブアプリ
+Exec=chromium --app=https://news.google.com --class=WebApp-GoogleNews2169
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/GoogleNews.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleNews2169
+StartupNotify=true
+X-WebApp-URL=https://news.google.com
+X-WebApp-Isolated=false

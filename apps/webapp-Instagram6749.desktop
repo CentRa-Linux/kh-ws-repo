@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Instagram
+Comment=ウェブアプリ
+Exec=chromium --app=https://instagram.com --class=WebApp-Instagram6749
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=instagram
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Instagram6749
+StartupNotify=true
+X-WebApp-URL=https://instagram.com
+X-WebApp-Isolated=false

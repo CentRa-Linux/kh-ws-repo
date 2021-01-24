@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Audible
+Comment=ウェブアプリ
+Exec=chromium --app=https://audible.com --class=WebApp-Audible5305
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/audible-logo.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Audible5305
+StartupNotify=true
+X-WebApp-URL=https://audible.com
+X-WebApp-Isolated=false

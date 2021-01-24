@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google
+Comment=ウェブアプリ
+Exec=chromium --app=https://google.com --class=WebApp-Google4683
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Google4683
+StartupNotify=true
+X-WebApp-URL=https://google.com
+X-WebApp-Isolated=false
+

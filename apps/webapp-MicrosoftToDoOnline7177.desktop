@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft To-Do Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://to-do.live.com --class=WebApp-MicrosoftToDoOnline7177
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/MicrosoftToDoOnline.png
+Categories=GTK;Utility;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftToDoOnline7177
+StartupNotify=true
+X-WebApp-URL=https://to-do.live.com
+X-WebApp-Isolated=false
+

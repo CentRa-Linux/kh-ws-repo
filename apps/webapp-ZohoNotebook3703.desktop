@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Zoho Notebook
+Comment=ウェブアプリ
+Exec=chromium --app=https://notebook.zoho.com --class=WebApp-ZohoNotebook3703
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/notebook-logo.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ZohoNotebook3703
+StartupNotify=true
+X-WebApp-URL=https://notebook.zoho.com
+X-WebApp-Isolated=false

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=WhatsApp Web
+Comment=ウェブアプリ
+Exec=chromium --app=https://web.whatsapp.com --class=WebApp-WhatsApp5430
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=whatsapp
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-WhatsApp5430
+StartupNotify=true
+X-WebApp-URL=https://web.whatsapp.com
+X-WebApp-Isolated=false
+

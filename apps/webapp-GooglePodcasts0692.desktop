@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Podcasts
+Comment=ウェブアプリ
+Exec=chromium --app=https://podcasts.google.com --class=WebApp-GooglePodcasts0692
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/GooglePodcasts.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GooglePodcasts0692
+StartupNotify=true
+X-WebApp-URL=https://podcasts.google.com
+X-WebApp-Isolated=false
+

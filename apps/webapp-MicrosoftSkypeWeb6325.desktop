@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Skype Web
+Comment=ウェブアプリ
+Exec=chromium --app=https://web.skype.com/ --class=WebApp-MicrosoftSkypeWeb6325
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=skype
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftSkypeWeb6325
+StartupNotify=true
+X-WebApp-URL=https://web.skype.com/
+X-WebApp-Isolated=false

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Docs
+Comment=ウェブアプリ
+Exec=chromium --app=https://docs.google.com --class=WebApp-GoogleDocs8492
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-docs
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleDocs8492
+StartupNotify=true
+X-WebApp-URL=https://docs.google.com
+X-WebApp-Isolated=false
+

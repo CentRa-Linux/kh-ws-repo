@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Translate
+Comment=ウェブアプリ
+Exec=chromium --app=https://translate.google.com --class=WebApp-GoogleTranslate3318
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/GoogleTranslate.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleTranslate3318
+StartupNotify=true
+X-WebApp-URL=https://translate.google.com
+X-WebApp-Isolated=false

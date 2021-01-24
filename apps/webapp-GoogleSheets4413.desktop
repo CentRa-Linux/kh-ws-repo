@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Sheets
+Comment=ウェブアプリ
+Exec=chromium --app=https://sheets.google.com --class=WebApp-GoogleSheets4413
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=application-vnd.google-apps.spreadsheet
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleSheets4413
+StartupNotify=true
+X-WebApp-URL=https://sheets.google.com
+X-WebApp-Isolated=false
+

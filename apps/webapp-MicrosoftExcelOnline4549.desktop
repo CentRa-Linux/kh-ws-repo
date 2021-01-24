@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Microsoft Excel Online
+Comment=ウェブアプリ
+Exec=chromium --app=https://office.live.com/start/Excel.aspx --class=WebApp-MicrosoftExcelOnline4549
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=ms-excel
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-MicrosoftExcelOnline4549
+StartupNotify=true
+X-WebApp-URL=https://office.live.com/start/Excel.aspx
+X-WebApp-Isolated=false

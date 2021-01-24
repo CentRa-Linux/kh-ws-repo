@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Mixi
+Comment=ウェブアプリ
+Exec=chromium --app=https://mixi.jp --class=WebApp-Mixi5320
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/Mixi.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Mixi5320
+StartupNotify=true
+X-WebApp-URL=https://mixi.jp
+X-WebApp-Isolated=false

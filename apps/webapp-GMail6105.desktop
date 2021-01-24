@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=GMail
+Comment=ウェブアプリ
+Exec=chromium --app=https://mail.google.com --class=WebApp-GMail6105
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=web-google-gmail
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GMail6105
+StartupNotify=true
+X-WebApp-URL=https://mail.google.com
+X-WebApp-Isolated=false
+

@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Duo
+Comment=ウェブアプリ
+Exec=chromium --app=https://duo.google.com --class=WebApp-GoogleDuo1589
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/GoogleDuo.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleDuo1589
+StartupNotify=true
+X-WebApp-URL=https://duo.google.com
+X-WebApp-Isolated=false
+

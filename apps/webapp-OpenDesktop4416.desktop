@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=OpenDesktop
+Comment=ウェブアプリ
+Exec=chromium --app=https://my.opendesktop.org --class=WebApp-OpenDesktop4416
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/OpenDesktop.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-OpenDesktop4416
+StartupNotify=true
+X-WebApp-URL=https://my.opendesktop.org
+X-WebApp-Isolated=false

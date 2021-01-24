@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Netflix
+Comment=ウェブアプリ
+Exec=chromium --app=https://netflix.com --class=WebApp-Netflix8692
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=netflix
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Netflix8692
+StartupNotify=true
+X-WebApp-URL=https://netflix.com
+X-WebApp-Isolated=false

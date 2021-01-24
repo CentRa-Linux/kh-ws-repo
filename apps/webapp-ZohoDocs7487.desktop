@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Zoho Docs
+Comment=ウェブアプリ
+Exec=chromium --app=https://docs.zoho.com --class=WebApp-ZohoDocs7487
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/docs-logo.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ZohoDocs7487
+StartupNotify=true
+X-WebApp-URL=https://docs.zoho.com
+X-WebApp-Isolated=false

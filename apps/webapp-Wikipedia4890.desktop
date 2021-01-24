@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Wikipedia Japan
+Comment=ウェブアプリ
+Exec=chromium --app=https://ja.wikipedia.org --class=WebApp-Wikipedia4890
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=wikipedia
+Categories=GTK;Utility;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Wikipedia4890
+StartupNotify=true
+X-WebApp-URL=https://ja.wikipedia.org
+X-WebApp-Isolated=false
+

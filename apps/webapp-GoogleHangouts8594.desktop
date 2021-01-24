@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Hangouts
+Comment=ウェブアプリ
+Exec=chromium --app=https://hangouts.google.com --class=WebApp-GoogleHangouts8594
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-chat
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GoogleHangouts8594
+StartupNotify=true
+X-WebApp-URL=https://hangouts.google.com
+X-WebApp-Isolated=false
+

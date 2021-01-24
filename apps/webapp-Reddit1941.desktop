@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Reddit
+Comment=ウェブアプリ
+Exec=chromium --app=https://reddit.com --class=WebApp-Reddit1941
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=reddit
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Reddit1941
+StartupNotify=true
+X-WebApp-URL=https://reddit.com
+X-WebApp-Isolated=false

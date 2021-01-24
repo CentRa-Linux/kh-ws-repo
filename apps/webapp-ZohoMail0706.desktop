@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Zoho Mail
+Comment=ウェブアプリ
+Exec=chromium --app=https://mail.zoho.com --class=WebApp-ZohoMail0706
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/mail-logo.png
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-ZohoMail0706
+StartupNotify=true
+X-WebApp-URL=https://mail.zoho.com
+X-WebApp-Isolated=false

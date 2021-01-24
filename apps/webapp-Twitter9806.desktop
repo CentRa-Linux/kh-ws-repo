@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Twitter
+Comment=ウェブアプリ
+Exec=chromium --app=https://twitter.com --class=WebApp-Twitter9806
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=twitter
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Twitter9806
+StartupNotify=true
+X-WebApp-URL=https://twitter.com
+X-WebApp-Isolated=false

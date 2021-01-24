@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=YouTube
+Comment=ウェブアプリ
+Exec=chromium --app=https://youtube.com --class=WebApp-YouTube7121
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=youtube
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-YouTube7121
+StartupNotify=true
+X-WebApp-URL=https://youtube.com
+X-WebApp-Isolated=false
+

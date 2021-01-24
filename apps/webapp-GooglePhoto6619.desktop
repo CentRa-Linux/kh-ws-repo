@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Google Photo
+Comment=ウェブアプリ
+Exec=chromium --app=https://photos.google.com --class=WebApp-GooglePhoto6619
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=google-photos
+Categories=GTK;Graphics;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-GooglePhoto6619
+StartupNotify=true
+X-WebApp-URL=https://photos.google.com
+X-WebApp-Isolated=false

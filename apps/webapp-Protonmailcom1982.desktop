@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Protonmail
+Comment=ウェブアプリ
+Exec=chromium --app=https://mail.protonmail.com --class=WebApp-Protonmailcom1982
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=protonmail-desktop
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Protonmailcom1982
+StartupNotify=true
+X-WebApp-URL=https://mail.protonmail.com
+X-WebApp-Isolated=false
+

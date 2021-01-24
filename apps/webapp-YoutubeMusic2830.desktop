@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Youtube Music
+Comment=ウェブアプリ
+Exec=chromium --app=https://music.youtube.com --class=WebApp-YoutubeMusic2830
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=youtube-music-desktop-app
+Categories=GTK;AudioVideo;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-YoutubeMusic2830
+StartupNotify=true
+X-WebApp-URL=https://music.youtube.com
+X-WebApp-Isolated=false

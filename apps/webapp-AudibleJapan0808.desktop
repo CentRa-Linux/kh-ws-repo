@@ -1,0 +1,15 @@
+[Desktop Entry]
+Version=1.0
+Name=Audible Japan
+Comment=ウェブアプリ
+Exec=chromium --app=https://audible.co.jp --class=WebApp-AudibleJapan0808
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=/home/centra/.local/share/ice/icons/audible-logo.png
+Categories=GTK;Network;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-AudibleJapan0808
+StartupNotify=true
+X-WebApp-URL=https://audible.co.jp
+X-WebApp-Isolated=false
