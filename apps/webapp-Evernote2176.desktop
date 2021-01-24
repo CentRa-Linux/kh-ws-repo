@@ -1,0 +1,16 @@
+[Desktop Entry]
+Version=1.0
+Name=Evernote
+Comment=ウェブアプリ
+Exec=chromium --app=https://www.evernote.com/client/web?login=true#?hm=true& --class=WebApp-Evernote2176
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=evernote
+Categories=GTK;Office;
+MimeType=text/html;text/xml;application/xhtml_xml;
+StartupWMClass=WebApp-Evernote2176
+StartupNotify=true
+X-WebApp-URL=https://www.evernote.com/client/web?login=true#?hm=true&
+X-WebApp-Isolated=false
+
